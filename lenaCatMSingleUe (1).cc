@@ -18,7 +18,7 @@
  * Author: Manuel Requena <manuel.requena@cttc.es>
  *
  *
- * lena-x2-handover.cc-> modified by: Zubair
+ * lena-x2-handover.cc-> modified by: Sachin Gowda
  */
 
 
